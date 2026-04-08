@@ -276,6 +276,7 @@ ul { list-style: none; }
 .nav-cta {
   padding: 10px 24px !important;
   font-size: 0.85rem !important;
+  color: var(--gray-200) !important;
 }
 
 /* Mobile menu toggle */
@@ -569,10 +570,10 @@ ul { list-style: none; }
   box-shadow: var(--shadow-glow-teal);
 }
 
-.stat-card:nth-child(2) { transform: translateY(24px); }
+/* .stat-card:nth-child(2) { transform: translateY(24px); }
 .stat-card:nth-child(2):hover { transform: translateY(20px); }
 .stat-card:nth-child(4) { transform: translateY(24px); }
-.stat-card:nth-child(4):hover { transform: translateY(20px); }
+.stat-card:nth-child(4):hover { transform: translateY(20px); } */
 
 .stat-card-icon {
   font-size: 1.6rem;
